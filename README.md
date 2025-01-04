@@ -3,8 +3,8 @@
 
 # 1 信貸業務審核流程
 
-![text1](https://github.com/user-attachments/assets/82d15d37-7fe6-4f1d-b6ac-d87f60e35754)
-![text2](https://github.com/user-attachments/assets/94449998-4a9d-42f8-a342-f82bf4718790)
+![text1](https://github.com/Arno930610/SoftwareReport/blob/main/1.png)
+![text2](https://github.com/Arno930610/SoftwareReport/blob/main/2.png)
 
 
 准入策略、信用風險策略、反詐騙策略：一系列的if-else條件，滿足條件可以繼續進行下一步，不滿足條件就直接拒絕。
@@ -25,7 +25,7 @@
 
 用戶資料：
 ![text225](https://github.com/user-attachments/assets/f1b965d9-5f12-48f2-a46b-423dd7b375f3)
-![text3](https://github.com/user-attachments/assets/e3d446e3-2542-47a7-bcb6-729d254f7e78)
+![text3](https://github.com/Arno930610/SoftwareReport/blob/main/3.png)
 
 
 
@@ -37,7 +37,7 @@
 特徵庫：正是用於銜接豐富的資料資源與業務場景，特徵庫建構的意義在於將採集到的原始資料賦予業務意義。
 
 特徵庫可以簡單的理解為是一張具有業務邏輯的資料字典表格。根據特徵庫，可以將資料平台中非結構化資料標準換成能夠表徵風險等級的欄位表。
-![text4](https://github.com/user-attachments/assets/58e23215-2bcd-4828-97b6-ea8a397d27fd)
+![text4](https://github.com/Arno930610/SoftwareReport/blob/main/4.png)
 
 # 1.5 身份驗證
 實名認證：二要素、三要素、四要素驗證
@@ -102,7 +102,7 @@
 
 信用分險策略開發:決策樹(CART迴歸樹)
 
- ![text6](https://github.com/user-attachments/assets/a6d00d52-0276-411d-93ec-054382cf0144)
+ ![text6](https://github.com/Arno930610/SoftwareReport/blob/main/5.png)
 
 
 
